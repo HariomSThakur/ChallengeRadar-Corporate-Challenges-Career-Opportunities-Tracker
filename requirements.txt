@@ -1,0 +1,2 @@
+# The tracker uses Python's standard library. AI review also uses the OpenAI
+# Responses API via the standard library, so there are no packages to install.

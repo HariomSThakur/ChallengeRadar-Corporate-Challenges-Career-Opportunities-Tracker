@@ -1,0 +1,46 @@
+{
+  "primary": [
+    "Corporate challenge",
+    "Problem statement",
+    "Innovation challenge",
+    "Open innovation",
+    "Campus hackathon",
+    "Coding challenge",
+    "Business case competition",
+    "Student competition"
+  ],
+  "recruitment": [
+    "Pre-placement offer",
+    "PPO",
+    "Pre-placement interview",
+    "PPI",
+    "Direct hiring",
+    "Internship opportunity",
+    "Full-time opportunity",
+    "Graduate recruitment"
+  ],
+  "certificate_signals": [
+    "participation certificate",
+    "certificate of participation",
+    "e-certificate"
+  ],
+  "certificate_only_signals": [
+    "certificate only",
+    "certificates only",
+    "only a certificate",
+    "only certificates",
+    "only a participation certificate"
+  ],
+  "hiring_signals": [
+    "pre-placement offer",
+    "PPO",
+    "pre-placement interview",
+    "PPI",
+    "direct hiring",
+    "internship opportunity",
+    "full-time opportunity",
+    "graduate recruitment",
+    "job offer",
+    "interview opportunity"
+  ]
+}

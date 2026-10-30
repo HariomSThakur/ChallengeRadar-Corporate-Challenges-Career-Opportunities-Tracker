@@ -1,0 +1,20 @@
+{
+  "country": "IN",
+  "search_language": "en",
+  "freshness": "pm",
+  "results_per_query": 10,
+  "platforms": [
+    {"name": "LinkedIn", "domains": ["linkedin.com"]},
+    {"name": "X", "domains": ["x.com", "twitter.com"]},
+    {"name": "Instagram", "domains": ["instagram.com"]},
+    {"name": "Facebook", "domains": ["facebook.com"]},
+    {"name": "Threads", "domains": ["threads.net"]},
+    {"name": "YouTube", "domains": ["youtube.com"]},
+    {"name": "Unstop", "domains": ["unstop.com"]},
+    {"name": "Naukri", "domains": ["naukri.com"]},
+    {"name": "HackerEarth", "domains": ["hackerearth.com"]},
+    {"name": "Devpost", "domains": ["devpost.com"]},
+    {"name": "GitHub", "domains": ["github.com"]}
+  ],
+  "discover_unlisted_companies": true
+}
